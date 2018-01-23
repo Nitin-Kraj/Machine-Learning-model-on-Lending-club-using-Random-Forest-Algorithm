@@ -1,7 +1,6 @@
 # Machine-Learning-model-on-Lending-club-using-Random-Forest-Algorithm
 
-Lending Club connects people who need money (borrowers) with people who have money (investors). Hopefully, as an investor we would want to invest in people who showed a profile of having a high probability of paying us back. We are creating a model that will help us to predict this.
-We will use lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full.
+Lending Club connects people who need money (borrowers) with people who have money (investors). Hopefully, as an investor we would want to invest in people who showed a profile of having a high probability of paying us back. A model is created that will help us to predict this.
 Here are what the columns representing 
 credit.policy: 1 if the customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.
 purpose: The purpose of the loan (takes values "credit_card", "debt_consolidation", "educational", "major_purchase", "small_business", and "all_other").
